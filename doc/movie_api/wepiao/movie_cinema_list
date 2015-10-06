@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/x-www-form-urlencoded" -X POST -d 'sign=2C9773706696DA047AC2E8D7CD882B01&v=2015072401&movieId=5776&t=1444101087&cityId=179&appkey=9&from=0123456789&appver=4.2.0' http://androidcgi.wepiao.com/sche/cinema-list-by-movie

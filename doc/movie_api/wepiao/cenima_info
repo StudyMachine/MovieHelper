@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/x-www-form-urlencoded" -X POST -d 'sign=8A87E17C1D62FC2F13F442E675B6E1AD&appkey=9&v=2015072401&t=1444101481&from=0123456789&cinemaId=1001571&appver=4.2.0' http://androidcgi.wepiao.com/cinema/info
